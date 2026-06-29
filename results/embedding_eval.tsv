@@ -1,0 +1,13 @@
+metric	value
+taxon_AUROC_same_vs_diff	0.806
+taxon_kNN_agreement	0.981
+taxon_kNN_chance	0.404
+pool_AUROC_same_vs_diff	0.605
+pool_kNN_agreement	0.965
+pool_kNN_chance	0.244
+KMeans_homogeneity	0.765
+KMeans_completeness	0.485
+KMeans_AMI	0.591
+n_reads_total	3963.0
+n_reads_mapped	2799.0
+n_taxa	9.0

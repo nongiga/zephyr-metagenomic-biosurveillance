@@ -1,0 +1,8 @@
+species	reads_conf0.1	n_pools	reads_conf0.5	frac_surviving_conf0.5
+Severe acute respiratory syndrome-related coronavirus	2232	2	2149	0.963
+Human coronavirus NL63	251	3	217	0.865
+Human coronavirus 229E	129	4	103	0.798
+Rhinovirus B	29	1	0	0.0
+Orthorubulavirus laryngotracheitidis	6	1	0	0.0
+Human coronavirus HKU1	6	1	4	0.667
+Metapneumovirus hominis	3	1	0	0.0

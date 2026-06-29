@@ -1,0 +1,20 @@
+# OS / editor
+.DS_Store
+~$*
+
+# Python
+__pycache__/
+*.pyc
+
+# Memo / write-up — kept local, not published
+memo.md
+memo.docx
+memo_outline.md
+memo_outline.docx
+
+# Regeneratable / backup intermediates
+embed/embeddings_kmer.npy
+embed/refs_named.fa
+
+# Raw data lives on the cluster (and is downloadable from Zephyr)
+data/
