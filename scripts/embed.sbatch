@@ -5,7 +5,7 @@
 #SBATCH -c 16
 #SBATCH --mem=48G
 #SBATCH -t 60
-#SBATCH --exclude=ins082,ins084,ins085
+#SBATCH --exclude=ins084,ins085
 #SBATCH -o /insomnia001/depts/pmg/users/na2933/pivotal-zephyr/embed/embed.log
 #SBATCH -e /insomnia001/depts/pmg/users/na2933/pivotal-zephyr/embed/embed.log
 export PYTHONUNBUFFERED=1
